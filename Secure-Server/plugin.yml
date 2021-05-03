@@ -1,0 +1,17 @@
+version: 1.7.2
+name: SECURE-SERVER
+main: me.nao.secure.server.Main1
+api-version: 1.16
+author: nao
+description: Un server mas seguro
+
+
+commands: 
+    ssecure:
+        description: El comando principal
+    smode:
+        description: El comando de builders 
+    freeze:
+        description: Comando para freezear        
+    report:
+        description: Comando para reportar                   

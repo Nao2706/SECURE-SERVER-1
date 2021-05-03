@@ -1,0 +1,36 @@
+Config:
+Prefix: '&6&l||Secure-Server||'
+World-Permissions:
+    List:
+    - world
+    - world_nether
+    - world_the_end
+Blocked-Blocks:
+    List:
+    - CHEST
+    - HOPPER
+Place-Blocked-Blocks:
+    List:
+    - CHEST
+    - HOPPER
+Blacklist-Users:
+    List:
+    - Example27 
+    - example2
+Block-Words:
+    List:
+    - Example27 
+    - aternos
+    - halo
+    - xd
+Whitelist-Op:
+    List:
+    - NAO2706
+    - Oass1ss
+Builders:
+    List:
+    - NAO2706
+    - Oass1ss
+Automatic-Ban: false
+Time-Ban: 10
+Cooldown-Report: 70
